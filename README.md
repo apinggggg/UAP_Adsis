@@ -16,7 +16,7 @@ Jawaban
 <p align="center">
   <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.002.png" >
 </p>
-
+<p align="center">Gambar 1.1</p>
 **Gambar 1.1**
 
 <p align="center">
