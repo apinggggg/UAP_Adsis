@@ -7,24 +7,29 @@ NIM	: 215150707111019
 Tugas UAP Administrasi TI-E
 
 <p align="center">
-  <img src="https://github.com/garr007/UAP_Adsis/blob/main/Images/Aspose.Words.f39e40ac-573f-4559-b2e7-d24427e0ee76.001.png" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.001.jpeg" >
 </p>
-<p align="center">Gambar 1.1</p>
 
 
 Jawaban
 
-![](Aspose.Words.7ec84313-4080-485d-ad67-41cc1740f490.002.png)![](Aspose.Words.7ec84313-4080-485d-ad67-41cc1740f490.003.png)
+<p align="center">
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.002.png" >
+</p>
 
 **Gambar 1.1**
 
-![](Aspose.Words.7ec84313-4080-485d-ad67-41cc1740f490.002.png)![](Aspose.Words.7ec84313-4080-485d-ad67-41cc1740f490.004.png)
+<p align="center">
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.002.png" >
+</p>
 
 **Gambar 1.2**
 
 
 
-![](Aspose.Words.7ec84313-4080-485d-ad67-41cc1740f490.002.png)![](Aspose.Words.7ec84313-4080-485d-ad67-41cc1740f490.005.png)
+<p align="center">
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.002.png" >
+</p>
 
 **Gambar 1.3** 
 
