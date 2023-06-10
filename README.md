@@ -6,7 +6,10 @@ NIM	: 215150707111019
 
 Tugas UAP Administrasi TI-E
 
-![](Aspose.Words.7ec84313-4080-485d-ad67-41cc1740f490.001.jpeg)
+<p align="center">
+  <img src="https://github.com/garr007/UAP_Adsis/blob/main/Images/Aspose.Words.f39e40ac-573f-4559-b2e7-d24427e0ee76.001.png" >
+</p>
+<p align="center">Gambar 1.1</p>
 
 
 Jawaban
