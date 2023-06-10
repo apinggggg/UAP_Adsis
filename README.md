@@ -8,7 +8,8 @@ Tugas UAP Administrasi TI-E
 
 Jawaban
 
-1. <p align="center">
+1. 
+<p align="center">
   <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP1.1.png" >
 </p>
 <p align="center">Gambar 1.1</p>
