@@ -7,27 +7,27 @@ NIM	: 215150707111019
 Tugas UAP Administrasi TI-E
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.001.jpeg" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP1.1.png" >
 </p>
 
 
 Jawaban
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.002.png" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP1.1.png" >
 </p>
 <p align="center">Gambar 1.1</p>
 
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.003.png" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP1.2.png" >
 </p>
 <p align="center">Gambar 1.2</p>
 
 
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.004.png" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP1.3.png" >
 </p>
 <p align="center">Gambar 1.3</p>
 
@@ -37,7 +37,7 @@ Jawaban
 Membuat direktori dengan nama **UAP-Adsis** dengan menggunakan perintah **mkdir,** kemudian membuat file dengan nama **catatanya-hafizh.txt** dengan menggunakan perintah **touch.** Lalu pada isi file tersebut menuliskan nama dan NIM sesuai dengan perintah yang ada pada soal. Kemudian save file dengan menekan **CTRL + X,** lalu klik **Yes** dan **Enter.** Selanjutnya mengatur permission menjadi view only untuk user dengan menjalankan perintah **sudo chmod 400 <Nama File>.** Kemudian kita bisa mengecek apakah file tersebut sudah berubah menjadi view only dengan menjalankan perintah **ls -l.**
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.005.jpeg" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP2.1.png" >
 </p>
 <p align="center">Gambar 2.1</p>
 
@@ -50,18 +50,18 @@ Sebelum Melakukan Konfigurasi, saya mengecek antarmuka jaringan mana yang akan s
 
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.006.jpeg" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP3.1.png" >
 </p>
 <p align="center">Gambar 3.1</p>
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.007.jpeg" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP3.2.png" >
 </p>
 <p align="center">Gambar 3.2</p>
 
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.008.png" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP3.3.png" >
 </p>
 <p align="center">Gambar 3.3</p>
 
@@ -71,17 +71,17 @@ Pada webmin terdapat pilhan **System** kemudian didalamnya terdapat pilihan **Us
 
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.009.jpeg" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP4.1.png" >
 </p>
 <p align="center">Gambar 4.1</p>
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.010.jpeg" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP4.2.png" >
 </p>
 <p align="center">Gambar 4.2</p>
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.011.jpeg" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP4.3.png" >
 </p>
 <p align="center">Gambar 4.3</p>
 
@@ -91,17 +91,17 @@ Saya melakukan ping ke IP yang sebelumnya telah saya konfigurasikan menjadi IP 1
 
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.012.jpeg" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP5.1.png" >
 </p>
 <p align="center">Gambar 5.1</p>
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.013.png" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP5.2.png" >
 </p>
 <p align="center">Gambar 5.2</p>
 
 <p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/Aspose.Words.9f7b73f8-8046-4fc2-809d-5d5a90d84974.014.jpeg" >
+  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP5.3.png" >
 </p>
 <p align="center">Gambar 5.3</p>
 
