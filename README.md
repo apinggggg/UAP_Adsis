@@ -6,11 +6,6 @@ NIM	: 215150707111019
 
 Tugas UAP Administrasi TI-E
 
-<p align="center">
-  <img src="https://github.com/apinggggg/UAP_Adsis/blob/main/Images/UAP1.1.png" >
-</p>
-
-
 Jawaban
 
 <p align="center">
